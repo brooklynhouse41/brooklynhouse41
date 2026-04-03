@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brooklynhouse41
-- 👀 I’m interested in game development, computer programming,Web Development & Design, AI, VR, UI/UX & more.
+- 👀 I’m interested in Game Development, Computer Programming,Web Development & Design, AI, VR, UI/UX & more.
 - 🌱 I’m currently learning to create 3d games with Unity & creating my own 2d games.
 - 👍 The programming languages that I know include: Javascript, CSS, HTML, Java, Python, C++, & C#.
 - 📫 How to reach me brooklynhouse41@gmail.com
